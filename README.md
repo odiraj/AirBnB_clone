@@ -49,11 +49,7 @@ by _Guillaume_
 * [ ] 14. Destroy
 * [ ] 15. Update
 * [ ] 16. Update from dictionary
-* [ ] 17. Unittests for the Console!
-
-## Developers
-Manuel Mosquera, Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
+* [ ] 17. Unittests for the Cons
 
 :man_technologist: :books: :computer: :globe_with_meridians:
 
@@ -91,6 +87,9 @@ EOF  all  create  destroy  help  quit  show  update
 
 (hbnb) 
 ```
+##developer
+Bassey Bassey
+jacob odira
 
 ## Our commands:
 
