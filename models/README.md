@@ -1,2 +1,1 @@
-AirBnB_clone/models/
-This directory contain ...
+hass all the models
