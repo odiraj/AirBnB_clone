@@ -43,12 +43,7 @@ Before starting, please fork or clone the repository AirBnB_clone from your part
 * [Inline Styles in HTML](https://www.codecademy.com/articles/html-inline-styles)
 * [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
 * [CSS SpeciFishity](http://www.standardista.com/wp-content/uploads/2012/01/specificity3.pdf)
-* [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-* [MDN](https://developer.mozilla.org/en-US/)
-* [center boxes](https://css-tricks.com/centering-css-complete-guide/)
-* [W3C-Validator](https://github.com/holbertonschool/W3C-Validator)
-* [HTML & CSS](https://www.youtube.com/watch?v=nvT22fR9euk&feature=youtu.be)
+* [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HT
 
 ## Tasks
 * [x] 0. Inline styling
@@ -63,10 +58,6 @@ Before starting, please fork or clone the repository AirBnB_clone from your part
 * [ ] 9. Full details
 * [ ] 10. Flex
 * [ ] 11. Responsive design
-* [ ] 12. Accessibility
-
-## Developer
-Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
-
-:man_technologist: :books: :computer: :globe_with_meridians:
+* [ ] 12. Accessibilit
+##creator
+jacob
